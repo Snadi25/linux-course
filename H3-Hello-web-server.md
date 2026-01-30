@@ -1,4 +1,4 @@
-# H# Hello web server
+# H3 Hello web server
 
 ## a)
 - Teimme tunnilla jo esimerkki webbisivun, joten kun kokeilen että webbipalvelin vastaa HTTP osoitteesta tulee tämä kyseinen esimerkkisivu näkyviin.
