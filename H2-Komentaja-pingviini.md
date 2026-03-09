@@ -53,7 +53,10 @@
 
 # Lähteet:
 Korbin Brown 22 September 2025 Install npm on Linux: https://linuxconfig.org/install-npm-on-linux
+
 Linux Wikipedia: https://www.linux.fi/wiki/Cowsay
+
+Kotitehtävän tehtävänanto: https://terokarvinen.com/linux-palvelimet/#h2-komentaja-pingviini
 
 Subredditit joista hain ohjelmia:
 
