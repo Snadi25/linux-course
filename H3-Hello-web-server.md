@@ -54,6 +54,8 @@
 # Lähteet
 Tero Karvinen 2018: Name Based Virtual Hosts on Apache – Multiple Websites to Single IP Address https://terokarvinen.com/2018/04/10/name-based-virtual-hosts-on-apache-multiple-websites-to-single-ip-address/
 
+Kotitehtävän tehtävänanto: https://terokarvinen.com/linux-palvelimet/#h3-hello-web-server
+
 David Girvin 2025: Understanding the Apache access log: how to view, locate, and analyze https://www.sumologic.com/blog/apache-access-log
 
 MDN: https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers/ETag
