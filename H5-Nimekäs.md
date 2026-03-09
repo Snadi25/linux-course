@@ -44,3 +44,4 @@ c) Host ja dig
 ## Lähteet:
 - GeeksforGeeks 2025: dig Command in Linux with Examples https://www.geeksforgeeks.org/linux-unix/dig-command-in-linux-with-examples/
 - GeeksforGeeks 2019: host command in Linux with examples https://www.geeksforgeeks.org/linux-unix/host-command-in-linux-with-examples/
+- Kotitehtävän tehtävänanto: https://terokarvinen.com/linux-palvelimet/#h5-nimekas
