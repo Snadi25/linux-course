@@ -36,3 +36,4 @@
 - The Apache Software Foundation: https://httpd.apache.org/docs/2.4/ssl/ssl_howto.html#configexample
 - Let's Encrypt: How it works: https://letsencrypt.org/how-it-works/
 - Täälä vielä vähän infoa miten katsoa onko auto renew päällä vai ei: https://community.letsencrypt.org/t/is-auto-renew-on/175547
+- Kotitehtävän tehtävänanto: https://terokarvinen.com/linux-palvelimet/#h6-salataampa
