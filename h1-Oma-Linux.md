@@ -34,3 +34,4 @@ Käyttöjärjestelmänäni toimii Windows 11 Pro. Tietokoneessani on AMD Ryzen 5
 # Lähteet:
 - Karvinen Tero 2021 Install Debian on VirtualBox. https://terokarvinen.com/2021/install-debian-on-virtualbox/
 - Heinonen Johanna 2025 How to Install Linux to Virtualbox? https://github.com/johannaheinonen/johanna-test-repo/blob/main/linux-20082025.md
+- Kotitehtävän tehtävänanto: https://terokarvinen.com/linux-palvelimet/#h1-oma-linux
